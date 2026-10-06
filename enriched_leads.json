@@ -3,6 +3,7 @@
     "ico": "27082440",
     "company_name": "Alza.cz a.s.",
     "legal_form": "121",
+    "legal_form_code": null,
     "registered_address": "Jankovcova 1522/53, Holešovice, 17000 Praha 7",
     "city": "Praha",
     "postal_code": "17000",
@@ -10,18 +11,19 @@
       "33140",
       "461",
       "47250",
-      "49410",
-      "731"
+      "49410"
     ],
     "is_active": true,
-    "source_license_type": "FVE / Commercial Solar",
-    "installed_capacity_kw": 250.0,
+    "source_license_type": "FVE / Commercial Rooftop",
+    "installed_capacity_kw": 480.0,
+    "district": "Praha-Holešovice",
     "lookup_status": "SUCCESS"
   },
   {
     "ico": "00005886",
     "company_name": "Dopravní podnik hl. m. Prahy, akciová společnost",
     "legal_form": "121",
+    "legal_form_code": null,
     "registered_address": "Sokolovská 42/217, Vysočany, 19000 Praha 9",
     "city": "Praha",
     "postal_code": "19000",
@@ -29,37 +31,19 @@
       "25620",
       "43210",
       "49410",
-      "70200",
-      "74990"
+      "70200"
     ],
     "is_active": true,
     "source_license_type": "Industrial Cogeneration",
-    "installed_capacity_kw": 1800.0,
-    "lookup_status": "SUCCESS"
-  },
-  {
-    "ico": "45274649",
-    "company_name": "ČEZ, a. s.",
-    "legal_form": "121",
-    "registered_address": "Duhová 1444/2, Michle, 14000 Praha 4",
-    "city": "Praha",
-    "postal_code": "14000",
-    "cz_nace": [
-      "25620",
-      "33120",
-      "35230",
-      "8559",
-      "80010"
-    ],
-    "is_active": true,
-    "source_license_type": "Distribution / Generation",
-    "installed_capacity_kw": 5000.0,
+    "installed_capacity_kw": 2400.0,
+    "district": "Mladá Boleslav",
     "lookup_status": "SUCCESS"
   },
   {
     "ico": "26177005",
     "company_name": "COLAS CZ, a.s.",
     "legal_form": "121",
+    "legal_form_code": null,
     "registered_address": "Rubeška 215/1, Vysočany, 19000 Praha 9",
     "city": "Praha",
     "postal_code": "19000",
@@ -67,12 +51,12 @@
       "43350",
       "41000",
       "43",
-      "46900",
-      "71200"
+      "46900"
     ],
     "is_active": true,
-    "source_license_type": "Grid Operation",
-    "installed_capacity_kw": 1200.0,
+    "source_license_type": "Grid Interconnect",
+    "installed_capacity_kw": 1250.0,
+    "district": "Děčín",
     "lookup_status": "SUCCESS"
   }
 ]

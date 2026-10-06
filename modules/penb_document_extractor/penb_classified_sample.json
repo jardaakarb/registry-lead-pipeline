@@ -1,0 +1,40 @@
+[
+  {
+    "document_name": "PENB_ZSDruzinova_Pecky.pdf",
+    "municipality": "Pečky",
+    "identified_dates": [
+      "14.05.2029",
+      "14.05.2019"
+    ],
+    "issue_date": null,
+    "valid_until": "14.05.2019",
+    "is_legally_valid": false,
+    "energy_rating_class": "C",
+    "status_notes": "Platnost do 14.05.2019 (PROŠLÝ)."
+  },
+  {
+    "document_name": "PENB_ObecniUrad_Vitice.pdf",
+    "municipality": "Vitice",
+    "identified_dates": [
+      "10.11.2014"
+    ],
+    "issue_date": null,
+    "valid_until": null,
+    "is_legally_valid": false,
+    "energy_rating_class": null,
+    "status_notes": "Odhad dle nejnovějšího data 10.11.2014."
+  },
+  {
+    "document_name": "PENB_Sokolovna_Krechor.pdf",
+    "municipality": "Křečhoř",
+    "identified_dates": [
+      "22.08.2022",
+      "22.08.2032"
+    ],
+    "issue_date": null,
+    "valid_until": null,
+    "is_legally_valid": true,
+    "energy_rating_class": "B",
+    "status_notes": "Odhad dle nejnovějšího data 22.08.2032."
+  }
+]
