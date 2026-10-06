@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:03,419
-Vítejte u představení projektu komunitní energetiky.
-
-2
-00:00:03,600 --> 00:00:07,099
-Dnes si ukážeme automatické zpracování veřejných registrů a ARES.
-

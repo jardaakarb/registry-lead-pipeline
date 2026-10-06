@@ -103,9 +103,9 @@ python pipeline.py --module media
 
 ---
 
-## 📊 Sample Outputs
+## 📋 Data Contracts & Pipeline Schemas
 
-### ARES Enriched Lead (`enriched_leads.json`)
+### ARES Enriched Entity Schema
 ```json
 {
   "ico": "27082440",
@@ -124,7 +124,7 @@ python pipeline.py --module media
 }
 ```
 
-### PENB Classification Result (`penb_classified_sample.json`)
+### PENB Classification Audit Schema
 ```json
 {
   "document_name": "PENB_ZSDruzinova_Pecky.pdf",
