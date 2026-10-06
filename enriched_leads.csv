@@ -1,0 +1,5 @@
+﻿ico,company_name,legal_form,city,postal_code,registered_address,installed_capacity_kw,source_license_type,cz_nace,is_active,lookup_status
+27082440,Alza.cz a.s.,121,Praha,17000,"Jankovcova 1522/53, Holešovice, 17000 Praha 7",250.0,FVE / Commercial Solar,33140;461;47250;49410;731,True,SUCCESS
+00005886,"Dopravní podnik hl. m. Prahy, akciová společnost",121,Praha,19000,"Sokolovská 42/217, Vysočany, 19000 Praha 9",1800.0,Industrial Cogeneration,25620;43210;49410;70200;74990,True,SUCCESS
+45274649,"ČEZ, a. s.",121,Praha,14000,"Duhová 1444/2, Michle, 14000 Praha 4",5000.0,Distribution / Generation,25620;33120;35230;8559;80010,True,SUCCESS
+26177005,"COLAS CZ, a.s.",121,Praha,19000,"Rubeška 215/1, Vysočany, 19000 Praha 9",1200.0,Grid Operation,43350;41000;43;46900;71200,True,SUCCESS
